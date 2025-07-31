@@ -1,7 +1,3 @@
-✅ Cleaned-Up and Merged README.md
-markdown
-Copy
-Edit
 # 🚌 Busia Weather App – Final Project
 
 ## 🌤️ Weather App
@@ -102,9 +98,3 @@ Thank you for checking out this project!
 Enjoy the experience, and may the forecast be in your favor 🌦️
 
 — Lamar / Lewis Ndubi
-
-yaml
-Copy
-Edit
-
----
