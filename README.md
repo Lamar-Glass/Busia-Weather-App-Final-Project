@@ -35,6 +35,16 @@ A clean, responsive weather application that delivers real-time weather updates 
 ## 🚀 Getting Started
 
 Follow these steps to run the Weather App on your local machine:
+got to: https://home.openweathermap.org
+open up a free account..yes its free
+once you have a free account head to: https://home.openweathermap.org/api_keys
+copy your free api key (dont share with anybody but yourself)
+come back here on your IDE and search for a file on your left cale ".env"
+open it.
+you will see some thing like "VITE_OPENWEATHER_API_KEY="
+paste your api key at the end of the =
+well done mate..it's bloody easy right?
+now....
 
 ### 1. Clone the Repository
 
