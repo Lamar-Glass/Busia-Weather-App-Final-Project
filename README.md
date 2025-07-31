@@ -108,14 +108,3 @@ Copy
 Edit
 
 ---
-
-## ✅ Next Step
-
-Now that you’ve resolved the conflict manually:
-
-### Run these in your terminal:
-
-```bash
-git add README.md
-git rebase --continue
-git push origin main
